@@ -1,5 +1,4 @@
 package com.example.myapplication
-
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.CountDownTimer
@@ -7,7 +6,6 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
-import androidx.lifecycle.viewmodel.CreationExtras
 import java.lang.NumberFormatException
 
 class MainActivity : AppCompatActivity() {
